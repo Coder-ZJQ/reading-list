@@ -12,7 +12,6 @@ record some articles, guides and books to read.
 - [ ] [App Programming Guide for iOS](https://developer.apple.com/library/content/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html)
 - [ ] [The Swift Programming Language (Swift 4.1)](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/index.html#//apple_ref/doc/uid/TP40014097)
 - [ ] [Using Swift with Cocoa and Objective-C](https://developer.apple.com/library/content/documentation/Swift/Conceptual/BuildingCocoaApps/index.html)
-- [ ] [Auto Layout Guide](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/AutolayoutPG/index.html#//apple_ref/doc/uid/TP40010853)
 
 #### UIKit
 
@@ -25,6 +24,7 @@ record some articles, guides and books to read.
 - [ ] [Table View Programming Guide for iOS](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/TableView_iPhone/AboutTableViewsiPhone/AboutTableViewsiPhone.html)
 - [ ] [Address Book Programming Guide for iOS](https://developer.apple.com/library/content/documentation/ContactData/Conceptual/AddressBookProgrammingGuideforiPhone/Introduction.html)
 - [ ] [Scroll View Programming Guide for iOS](https://developer.apple.com/library/content/documentation/WindowsViews/Conceptual/UIScrollView_pg/Introduction/Introduction.html)
+- [ ] [Auto Layout Guide](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/AutolayoutPG/index.html#//apple_ref/doc/uid/TP40010853)
 - [ ] [UIScrollView And Autolayout](https://developer.apple.com/library/content/technotes/tn2154/_index.html#//apple_ref/doc/uid/DTS40013309)
 
 #### animation & drawing
@@ -129,6 +129,7 @@ record some articles, guides and books to read.
 
 
 
+unsort below
 
 - [ ] [Cocoa Application Competencies for iOS](https://developer.apple.com/library/content/documentation/General/Conceptual/Devpedia-CocoaApp)
 - [ ] [Timer Programming Topics](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/Timers/Articles/usingTimers.html)
